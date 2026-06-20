@@ -1,4 +1,7 @@
 # Large database files
+*.mdb
+*.accdb
+*.db
 choroby/*.mdb
 choroby/*.accdb
 choroby/*.db
@@ -18,3 +21,6 @@ venv/
 # OS
 .DS_Store
 .vscode/
+SUM_2015-03-19.mdb
+*.mdb
+SUM_2015-03-19.mdb
